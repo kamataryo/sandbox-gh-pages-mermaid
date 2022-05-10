@@ -1,6 +1,6 @@
 # Mermaid test
 
-```mermaind
+```mermaid
 graph TD
 
 input --> output
